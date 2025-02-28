@@ -15,7 +15,7 @@
 
 > *"Você foi contratado para criar um sistema que realiza a classificação de imagens de frutas para uma empresa de e-commerce. O objetivo é que, ao enviar uma imagem, o sistema identifique se a fruta é uma maçã, uma banana ou uma laranja."*
 
-### Dataset utlizado: Fruits-360 (modificado)
+### Dataset utilizado: Fruits-360 (modificado)
 
 > *Dataset contendo imagens de frutas e vegetais.*
 
